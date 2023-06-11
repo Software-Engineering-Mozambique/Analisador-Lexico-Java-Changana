@@ -1,0 +1,11 @@
+dyondzo SomaNumeros
+boane x;
+boane y, soma;
+x = 5, y;
+y = x + 2;
+tsala y;
+loko (soma <x | soma <y) Kutani
+tsala (--Soma invalida--);
+ndzi_hetile
+
+ku_hela_ka_dyondzo
